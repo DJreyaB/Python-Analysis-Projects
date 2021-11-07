@@ -17,7 +17,7 @@ A quantitative analyis of giant fruit and vegetable data gathered from Great Pum
 * [References](#references)
 * [Challenges and Future Work](#challenges-and-futurework)
 
-# BACKGROUND
+## BACKGROUND
 
 The data this week comes from [BigPumpkins.com](http://www.bigpumpkins.com/ViewArticle.asp?id=132).
 
